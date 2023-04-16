@@ -115,9 +115,9 @@
         "WHITE_500": "#F0C4FF",
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
-        "RED_400": "#FC0E61",
+        "RED_400": "#FC0E61"
     },
     "spec": 2
 }
-
-{"url":"https://i.pximg.net/img-original/img/2022/11/26/23/15/00/103122382_p0.jpg","alpha":0.2}
+"spec":2,"background":
+{"url":"https://i.pximg.net/img-original/img/2022/11/26/23/15/00/103122382_p0.jpg","alpha":0.2}}
