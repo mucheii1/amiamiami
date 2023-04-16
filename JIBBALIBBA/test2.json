@@ -1,0 +1,104 @@
+{
+    "name": "Ami",
+    "description": "theme xd amiami",
+    "authors": [
+        {
+            "name": "ami YOHANE",
+            "id": "585755351249453059"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#261133"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1C0C26"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1C0C26"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#261133"
+        ],
+        "HEADER_PRIMARY": [
+            "#c992de"
+        ],
+        "HEADER_SECONDARY": [
+            "#c992de"
+        ],
+        "KEYBOARD": [
+            "#261133"
+        ],
+        "CHAT_BACKGROUND": [
+            "#261133"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1C0C26"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#261133"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1C0C26"
+        ],
+
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#1C0C26"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#cb93df"
+        ],
+
+        "INTERACTIVE_ACTIVE": [
+            "#c992de"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#dbdee1"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#311D3A"
+        ],
+        
+        
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#333333"
+        ],
+        "TEXT_LINK": [
+            "#cb93df"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#8B6499"
+        ],
+
+        "CHANNEL_ICON": [
+            "#c992de"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#9f5eb8"
+        ],
+
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#1C0C26",
+        "PRIMARY_600": "#261133",
+        "PRIMARY_630": "#261133",
+        "PRIMARY_660": "#261133",
+        "PRIMARY_700": "#261133",
+        "PRIMARY_800": "#1C0C26",
+        "BRAND_360": "#ca92de",
+        "BRAND_260": "#ffffff",
+        "BRAND_500": "#cb93df",
+        "BRAND_560": "#c992dd",
+        "BRAND_900": "#cb93df",
+        "GREEN_360": "#c992de",
+        "YELLOW_300": "#c992dd",
+        "RED_400": "#e9438b",
+        "WHITE_500": "#ffffff"
+    },
+    "spec": 2
+}
+
+{"url":"https://i.pximg.net/img-original/img/2022/11/26/23/15/00/103122382_p0.jpg","alpha":0.2}
