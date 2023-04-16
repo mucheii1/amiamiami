@@ -33,49 +33,6 @@
         "INTERACTIVE_MUTED": [
             "#6C4878"
         ],
-        "BACKGROUND_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_SECONDARY": [
-           "#000000"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#120C13"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#000000"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#1F1521"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
-        ],
-       
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#1F1521"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#1F1521"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1B0122"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#1F1521"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
-        ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#A4A4A4"
         ],
